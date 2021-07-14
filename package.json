@@ -1,0 +1,23 @@
+{
+  "name": "bank_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "node": "^16.0.1",
+    "supertest": "^2.0.11",
+    "uuid": "^8.3.1",
+    "jest": "^27.0.6",
+    "nodemon": "^2.0.9",
+    "supertest": "^6.1.3"
+  }
+}
